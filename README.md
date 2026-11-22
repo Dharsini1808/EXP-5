@@ -129,13 +129,11 @@ Build the Zener regulator circuit in Proteus using the 1N4735A, the series resis
 
 <img width="1536" height="547" alt="m" src="https://github.com/user-attachments/assets/43e54cf9-d4b3-4818-8824-b1abd3c5273f" />
 
-
 **Figure 5:** Line regulation characteristics
 
 ### B. Load regulation (RL vs Vo)
 
 <img width="1536" height="625" alt="l" src="https://github.com/user-attachments/assets/1e736f0a-39f9-423d-a1b4-458a3ba183ec" />
-
 
 **Figure 6:** Load regulation characteristics
 
