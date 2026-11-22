@@ -1,8 +1,8 @@
 # EXPERIMENT NO. 5 – ZENER DIODE AS VOLTAGE REGULATOR
 
-| **Name:** | | **Reg. No.:** | |
+| **Name:** |DHARSINI N  | **Reg. No.:** |26017960 |
 |---|---|---|---|
-| **Date:** | | **Batch / Section:** | |
+| **Date:** |22/11/2026 | **Batch / Section:** | |
 
 ---
 
